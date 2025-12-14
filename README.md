@@ -1,6 +1,6 @@
 # Robot Baseball – Markov Game
 
-Mathematical and computational model of the **Robot Baseball** problem (Jane Street / Quad-A).
+Mathematical and computational model of the **Robot Baseball** problem (Jane Street Monthly Puzzle - October 2025)
 
 The game is modeled as a **stochastic zero-sum Markov game** between a pitcher and a batter, using **optimal mixed strategies** to:
 - Compute the probability of reaching a full count (3 balls, 2 strikes).
